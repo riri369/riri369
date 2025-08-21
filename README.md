@@ -1,9 +1,5 @@
 ## Hi, I'm Aishwarya!
 
-Studying Computer Science at Siksha O Anusandhan<br/>
-I come up with great problems but fail with their solutions sometimes WHICH IS WHY I'll always be a learner,
-oh well that just makes me a versatile concept artist for solutions -someone else has to actcually build them (sippp~).
-
 # GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=riri369&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=riri369&theme=midnight-purple&hide_border=false)<br/>
