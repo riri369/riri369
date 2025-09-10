@@ -9,7 +9,7 @@
 # Git Stats:
 
 ![](https://nirzak-streak-stats.vercel.app/?user=riri369&theme=gotham&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=riri369&theme=gotham&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+
 
 # Leet Stats:
 ![LeetCode Stats](https://leetcard.jacoblin.cool/ryaaa?theme=dark&font=Abel&ext=heatmap)
